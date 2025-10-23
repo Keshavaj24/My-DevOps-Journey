@@ -32,3 +32,23 @@ Experience:
 
 # Day 4 19-10-2025
 
+Today I have done a small beginner level project 
+# Description: A Script to list all resources available in the AWS using AWS CLI
+
+- Firstly validated the command line arguments that user inputs
+  Usage: $0 <region> <service_name>
+- Check for AWS installed or not
+- Check for AWS is configured or not
+- To list resources from an AWS by implementing Switch case method
+- Resources that are listed is 
+  1. ec2
+  2. s3 bucket
+  3. dynamodb
+  4. rds
+  5. iam
+  6. vpc
+  7. eks
+- Finally, to work efficient this script I have implemented cron jobs to execute on particular time
+  while implementing this i was bit confused and not worked correctly.
+- After sometime with the help of chatgpt and referring documentation I came to fix it and executed. 
+- I have to practice this much more on this topic.
