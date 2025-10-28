@@ -1,8 +1,9 @@
 # Journey of Linux and shell scripting
 
-# Day 1 14-10-2025
+### **Day 1 14-10-2025**
 
-#Shell Scripting & Linux commands
+### **Shell Scripting & Linux commands**
+________________________________________
 What I learned yesterday:
 - Basics of Linux commands: 'mkdir', 'rmdir', 'touch', 'vi', 'ls', 'cd', 'chmod', 'cat', 'man', 
 - Importance of shebang (#!/bin/bash) in shell scripts indicates a which interpreter to run that script.
@@ -15,7 +16,7 @@ What I learned yesterday:
 Experience: 
 - Gained confidence using Linux commands and shell scripting for simple tasks.
 
-# Day 2 15-10-2025
+### **Day 2 15-10-2025**
 - Learned Ubuntu file system navigation (ls, cd, pwd) and handling folder names with spaces using quotes "".
 - Created a shell script to backup 
   window file sys - /mnt/k/Clg_Notes/3 sem Notes  " to "
