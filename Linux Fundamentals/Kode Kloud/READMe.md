@@ -33,3 +33,9 @@ Create a user mariyam with non-interactive shell access
 sudo useradd -s /sbin/nologin mariyam
 
 ```
+## TASK - 4   [21-03-2026]
+Create a user without home dir 
+```
+sudo useradd -M rose
+```
+
